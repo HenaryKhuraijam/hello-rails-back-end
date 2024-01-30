@@ -109,7 +109,7 @@ You can deploy this project using your own deployment solution
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## [Link hello-react-front-end](git@github.com:HenaryKhuraijam/hello-react-front-end.git)
+## [Link hello-react-front-end](https://github.com/HenaryKhuraijam/hello-react-front-end/tree/feature)
 
 <!-- AUTHORS -->
 
